@@ -1,0 +1,11 @@
+C:\Users\justi\workspace\csharp\exercises\words\obj\Debug\netcoreapp2.2\words.csprojAssemblyReference.cache
+C:\Users\justi\workspace\csharp\exercises\words\obj\Debug\netcoreapp2.2\words.csproj.CoreCompileInputs.cache
+C:\Users\justi\workspace\csharp\exercises\words\obj\Debug\netcoreapp2.2\words.AssemblyInfoInputs.cache
+C:\Users\justi\workspace\csharp\exercises\words\obj\Debug\netcoreapp2.2\words.AssemblyInfo.cs
+C:\Users\justi\workspace\csharp\exercises\words\bin\Debug\netcoreapp2.2\words.deps.json
+C:\Users\justi\workspace\csharp\exercises\words\bin\Debug\netcoreapp2.2\words.runtimeconfig.json
+C:\Users\justi\workspace\csharp\exercises\words\bin\Debug\netcoreapp2.2\words.runtimeconfig.dev.json
+C:\Users\justi\workspace\csharp\exercises\words\bin\Debug\netcoreapp2.2\words.dll
+C:\Users\justi\workspace\csharp\exercises\words\bin\Debug\netcoreapp2.2\words.pdb
+C:\Users\justi\workspace\csharp\exercises\words\obj\Debug\netcoreapp2.2\words.dll
+C:\Users\justi\workspace\csharp\exercises\words\obj\Debug\netcoreapp2.2\words.pdb
